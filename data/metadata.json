@@ -1,0 +1,21 @@
+{
+    "Raw File Name": "scbel01012011_gen13_tcm327-275679.zip", 
+    "Group": "Belgium", 
+    "License": "Open Data License: http://statbel.fgov.be/en/statistics/opendata/licence/", 
+    "country": "Belgium", 
+    "Unnamed: 11": null, 
+    "Processed File Name": "BEL_ADM0.zip", 
+    "timestamp": 1534539066, 
+    "Known Errors": null, 
+    "datetime": "2018-08-17 16:51:06", 
+    "version": "1_3_3", 
+    "Unnamed: 12": null, 
+    "Source 2": null, 
+    "Source 1": "Statistics Belgium", 
+    "Year": 2015, 
+    "iso": "BEL", 
+    "adm": "ADM0", 
+    "Changes": "No", 
+    "Link to Source Data": "http://statbel.fgov.be/en/statistics/opendata/datasets/tools/big/SH_STAT_SECTORS.jsp", 
+    "Boundary Level": "ADM 0"
+}
