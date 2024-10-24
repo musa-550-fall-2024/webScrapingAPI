@@ -3,10 +3,10 @@
 # Getting Data, Web Scraping, API, Text Analytics
 
 ## multiple repos:
-- basics of webscraping
-- mapping air quality
-- four square api
-- api text analytics and the census `cenpy`
+- [basics of webscraping](https://github.com/musa-550-fall-2024/webScrapingAPI/blob/main/API_textAnalytics_Census.ipynb)
+- [mapping air quality](https://github.com/musa-550-fall-2024/webScrapingAPI/blob/main/mappingAirQuality_withAPI.ipynb)
+- [four square api](https://github.com/musa-550-fall-2024/webScrapingAPI/blob/main/FourSquareAPI.ipynb)
+- [api text analytics and the census `cenpy`](https://github.com/musa-550-fall-2024/webScrapingAPI/blob/main/API_textAnalytics_Census.ipynb)
 
 
 ## Recommended readings
